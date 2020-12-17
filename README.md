@@ -2,7 +2,7 @@
 
 Todoey is a simple iOS app to manage To-Do list, using Core Data.
 
-![](example.gif)
+![](example_1.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
